@@ -1,4 +1,6 @@
 # TerraformNagrom
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWillisMorgan%2Fterraform-nag.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWillisMorgan%2Fterraform-nag?ref=badge_shield)
+
 
 TODO: Brief examples on Terraform Configurations I've been working on in regards to IAC and What Terraform is.
 **********
@@ -16,3 +18,7 @@ The infrastructure Terraform can manage includes low-level components such as co
 To Show Samples of my Work with multiple cloud providers using Terraform such as Microsoft's AZURE and Amazon's AWS.
 
 ##
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWillisMorgan%2Fterraform-nag.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWillisMorgan%2Fterraform-nag?ref=badge_large)
