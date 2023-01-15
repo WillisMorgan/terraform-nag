@@ -13,6 +13,6 @@ Terraform is a tool for building, changing, and versioning infrastructure safely
 The infrastructure Terraform can manage includes low-level components such as compute instances, storage, and networking, as well as high-level components such as DNS entries, SaaS features, etc. -HashiCorp
 
 ## USAGE
-To Show Samples of my Work with multiple cloud providers using Terraform such as Microsoft's AZURE and Amazon's AWS.
+To Show Samples of my Work with multiple cloud providers using Terraform such as Azure(Microsoft), AWS(Amazon Web Services), GCP(Google), etc.
 
 ##
